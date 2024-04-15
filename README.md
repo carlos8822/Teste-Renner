@@ -1,1 +1,3 @@
-# Teste-Renner
+Projeto de automação de teste
+-Web
+-APi
